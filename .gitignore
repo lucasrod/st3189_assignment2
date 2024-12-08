@@ -1,0 +1,17 @@
+# R-specific files
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data directories
+data/
+
+# System files
+.DS_Store
+
+# Temporary log files
+*.log
